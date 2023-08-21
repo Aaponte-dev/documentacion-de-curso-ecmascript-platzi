@@ -9,3 +9,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [1.- Historia de JavaScript: ¿qué es ECMAScript?](./lecciones/1.-Historia-de-javaScript-qué-es-ecmascript.md)
 
 ### [2.- ¿Qué es el TC39?](./lecciones/2.-Que-es-el-tc39.md)
+
+### [3.- Configurando nuestras herramientas](./lecciones/)
