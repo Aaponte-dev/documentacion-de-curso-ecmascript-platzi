@@ -13,3 +13,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [3.- Configurando nuestras herramientas](./lecciones/3.-Configurando-nuestras-herramientas.md)
 
 ### [4.- ES6: let y const, y arrow functions](./lecciones/4.-Es6-let%20-const-y-arrow-functions.md)
+
+### [5.- ES6: strings](./lecciones/5.-Es6-strings.md)
