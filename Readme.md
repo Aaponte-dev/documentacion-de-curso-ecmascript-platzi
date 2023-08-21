@@ -17,3 +17,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [5.- ES6: strings](./lecciones/5.-Es6-strings.md)
 
 ### [6.- ES6: parámetros por defecto](./lecciones/6.-Es6-parámetros-por-defecto.md)
+
+### [7.- ES6: asignación de desestructuración](./lecciones/)
