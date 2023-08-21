@@ -10,4 +10,6 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 
 ### [2.- ¿Qué es el TC39?](./lecciones/2.-Que-es-el-tc39.md)
 
-### [3.- Configurando nuestras herramientas](./lecciones/)
+### [3.- Configurando nuestras herramientas](./lecciones/3.-Configurando-nuestras-herramientas.md)
+
+### [4.- ES6: let y const, y arrow functions](./lecciones/4.-Es6-let%20-const-y-arrow-functions.md)
