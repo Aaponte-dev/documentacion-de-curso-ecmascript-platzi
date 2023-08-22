@@ -21,3 +21,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [7.- ES6: asignación de desestructuración](./lecciones/7.-Es6-asignación-de-desestructuración.md)
 
 ### [8.- ES6: spread operator](./lecciones/8.-Es6-spread-operator.md)
+
+### 9.- Playground: Combina objetos JSON con el Spread Operator
