@@ -23,3 +23,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [8.- ES6: spread operator](./lecciones/8.-Es6-spread-operator.md)
 
 ### 9.- Playground: Combina objetos JSON con el Spread Operator
+
+### [10.- ES6: object literals](./lecciones/10.-Es6-object-literals.md)
