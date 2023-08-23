@@ -43,3 +43,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [18.- ES7: exponentiation operator y array includes](./lecciones/18.-Es7-exponentiation-operator-y-array-includes.md)
 
 ### [19.- ES8: object entries y object values](./lecciones/19.-Es8-object-entries-y-object-values.md)
+
+### [20.- ES8: string padding y trailing commas](./lecciones/20.-Es8-string-padding-y-trailing-commas.md)
