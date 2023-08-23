@@ -61,3 +61,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [27.- ES11: BigInt y Nullish](./lecciones/27.-Es11-bigInt-y-nullish.md)
 
 ### [28.- ES11: Promise.allSettled](./lecciones/28.-Es11:-promise.allsettled.md)
+
+### [29.- ES11: globalThis y matchAll](./lecciones/29.-Es11-globalthis-y-matchall.md)
