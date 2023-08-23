@@ -51,3 +51,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [22.- ES9: expresiones regulares](./lecciones/22.-Es9-expresiones-regulares.md)
 
 ### [23.- ES9: Promise.finally](./lecciones/23.-Es9-promise.finally.md)
+
+### [24.- ES10: flat-map y trimStart-trimEnd](./lecciones/24.-Es10-flat-map-y-trimStart-trimEnd.md)
