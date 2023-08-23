@@ -47,3 +47,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [20.- ES8: string padding y trailing commas](./lecciones/20.-Es8-string-padding-y-trailing-commas.md)
 
 ### [21.- ES8: funciones asíncronas](./lecciones/21.-Es8-funciones-asíncronas.md)
+
+### [22.- ES9: expresiones regulares](./lecciones/22.-Es9-expresiones-regulares.md)
