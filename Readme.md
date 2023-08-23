@@ -39,3 +39,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### 16.- Playground: Generador de identificadores para michis
 
 ### [17.- ES6: set-add](./lecciones/17.-Es6-set-add.md)
+
+### [18.- ES7: exponentiation operator y array includes](./lecciones/18.-Es7-exponentiation-operator-y-array-includes.md)
