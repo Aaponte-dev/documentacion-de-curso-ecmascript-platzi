@@ -57,3 +57,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [25.- ES10: try catch y fromEntries](./lecciones/25.-Es10-try-catch-y-fromentries.md)
 
 ### [26.- ES11: optional chaining](./lecciones/26.-Es11-optional-chaining.md)
+
+### [27.- ES11: BigInt y Nullish](./lecciones/27.-Es11-bigInt-y-nullish.md)
