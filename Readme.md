@@ -41,3 +41,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [17.- ES6: set-add](./lecciones/17.-Es6-set-add.md)
 
 ### [18.- ES7: exponentiation operator y array includes](./lecciones/18.-Es7-exponentiation-operator-y-array-includes.md)
+
+### [19.- ES8: object entries y object values](./lecciones/19.-Es8-object-entries-y-object-values.md)
