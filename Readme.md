@@ -67,3 +67,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [30.- ES11: dynamic Import](./lecciones/30.-Es11-dynamic-import.md)
 
 ### [31.- ES12: numeric-separators y replaceAll](./lecciones/31.-Es12-numeric-separators-y-replaceall.md)
+
+### [32.- ES12: promise-any y métodos privados](./lecciones/32.-Es12-promise-any-y-métodos-privados.md)
