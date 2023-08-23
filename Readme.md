@@ -35,3 +35,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### 14.- Playground: Obtén una lista de películas
 
 ### [15.- ES6: generator](./lecciones/15.-Es6-generator.md)
+
+### 16.- Playground: Generador de identificadores para michis
