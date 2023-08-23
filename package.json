@@ -12,5 +12,8 @@
   ],
   "author": "Angel Aponte <aponte14leonardo@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
