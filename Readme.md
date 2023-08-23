@@ -49,3 +49,5 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [21.- ES8: funciones asíncronas](./lecciones/21.-Es8-funciones-asíncronas.md)
 
 ### [22.- ES9: expresiones regulares](./lecciones/22.-Es9-expresiones-regulares.md)
+
+### [23.- ES9: Promise.finally](./lecciones/23.-Es9-promise.finally.md)
