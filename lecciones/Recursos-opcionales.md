@@ -1,0 +1,16 @@
+# Recursos opcionales
+
+* [EcmaScript](https://www.ecma-international.org/)
+* [Esc - cambios](https://www.ecma-international.org/publications-and-standards/standards/?order=last-change)
+* [JsHero](https://jshero.platzi.com/)
+* [Api de platzi para estudiantes](https://fakeapi.platzi.com/)
+* [Curso de NPM](https://platzi.com/cursos/npm/)
+* [Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)
+* [Extensión necesaria para simulación en el curso](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Curso de Debugging con Chrome DevTools](https://platzi.com/cursos/devtools/)
+* [Curso de JavaScript Engine (V8) y el Navegador](https://platzi.com/cursos/javascript-navegador/)
+* [Curso de Asincronismo con JavaScript](https://platzi.com/cursos/asincronismo-js/)
+* [Expresiones Regulares](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [Cómo poner o escribir acento grave](https://www.tecnolopedia.com/ascii/acento-grave/)
+* [Curso de Closures y Scope en JavaScript](https://platzi.com/cursos/javascript-closures-scope/)
+* [Versiones semánticas de paquetes](https://docs.npmjs.com/about-semantic-versioning)

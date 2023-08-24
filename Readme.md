@@ -75,3 +75,7 @@ JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, pr
 ### [34.- ES13: top level await en el consumo de una API](./lecciones/34.-Es13-top-level-await-en-el-consumo-de-una-api.md)
 
 ### [35.- Performance](./lecciones/35.-Performance.md)
+
+> [Recursos opcionales](./lecciones/Recursos-opcionales.md)
+>
+> La mayoría de los títulos son links
